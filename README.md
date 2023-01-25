@@ -13,7 +13,7 @@ b. Assume that no process waits on I/O devices.
 9. Illustrate the concept of inter-process communication using shared memory with a C program.  
 10. Illustrate the concept of inter-process communication using message queue with a C program.
 
-DAY @ PROGRAMS
+DAY 2 PROGRAMS
 
 11. Illustrate the concept of multithreading using a C program.
 12. Design a C program to simulate the concept of Dining-Philosophers problem
